@@ -24,7 +24,7 @@ Identifies ideal city/program pairs by balancing:
 2. Run the script:
 
    ```
-   python match_optimizer.py
+   python match_optimizer.ipynb
    ```
 
 3. Open `top_law_ortho_matches.csv` to see the results.
