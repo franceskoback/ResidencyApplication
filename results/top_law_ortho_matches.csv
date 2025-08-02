@@ -1,0 +1,676 @@
+Law School,Ortho Program,Distance (miles),Score
+8. New York University School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,0.78,20.56
+6. Duke University School of Law,7. Duke Orthopaedic Surgery Residency,0.79,20.58
+5. University of Pennsylvania Carey Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),1.97,22.94
+8. New York University School of Law,1. Hospital for Special Surgery (HSS),3.35,23.71
+1. Stanford Law School,21. Stanford Orthopaedic Surgery Residency,0.82,24.64
+7. Harvard Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),2.88,24.75
+3. University of Chicago Law School,6. Rush Medical Center Orthopaedic Surgery Residency,7.03,26.06
+5. University of Pennsylvania Carey Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,0.27,26.55
+10. Columbia Law School,1. Hospital for Special Surgery (HSS),2.9,26.8
+10. Columbia Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,5.13,33.26
+11. Northwestern Pritzker School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,3.1,34.21
+9. University of Michigan Law School,19. Univeristy of Michigan Medical Center,0.91,38.81
+4. University of Virginia School of Law,29. UVA Health Orthopaedic Residency,1.53,40.07
+16. Vanderbilt University Law School,8. Vanderbilt Orthopaedic Surgery Residency,0.63,41.27
+10. Columbia Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,2.6,43.2
+3. University of Chicago Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,7.61,46.22
+11. Northwestern Pritzker School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,0.27,47.54
+8. New York University School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,8.24,50.47
+22. Boston University School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),2.14,53.29
+2. Yale Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,0.64,62.27
+19. UNC School of Law,7. Duke Orthopaedic Surgery Residency,9.09,63.19
+12. UCLA School of Law,38. UCLA Medical Center Orthopaedic Residency,0.69,63.39
+12. UCLA School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,13.15,67.3
+7. Harvard Law School,46. Boston University Medical Center Orthopaedic Residency,3.86,67.73
+1. Stanford Law School,12. UCSF Orthopaedic Surgery Residency Institute,26.87,67.75
+12. UCLA School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,3.26,74.52
+26. USC Gould School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2.94,74.87
+14. Georgetown University Law Center,43. Georgetown MedStar Health Orthopaedic Residency,3.45,77.91
+23. Texas A&M School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,3.22,78.45
+10. Columbia Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,1.24,92.47
+22. Boston University School of Law,46. Boston University Medical Center Orthopaedic Residency,2.04,94.08
+8. New York University School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,4.75,95.5
+6. Duke University School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,8.89,98.78
+15. University of Texas School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,0.98,99.96
+19. UNC School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,0.61,108.23
+26. USC Gould School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,7.2,110.4
+26. USC Gould School of Law,38. UCLA Medical Center Orthopaedic Residency,10.8,111.61
+7. Harvard Law School,27. Brown University Orthopaedic Residency (Lifespan),41.94,124.88
+2. Yale Law School,1. Hospital for Special Surgery (HSS),65.51,136.02
+2. Yale Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,68.04,143.09
+2. Yale Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,62.09,146.19
+22. Boston University School of Law,27. Brown University Orthopaedic Residency (Lifespan),40.36,151.73
+24. University of Georgia School of Law,13. Emory University Orthopaedic Surgery Residency,55.59,172.18
+5. University of Pennsylvania Carey Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,83.59,180.18
+5. University of Pennsylvania Carey Law School,1. Hospital for Special Surgery (HSS),86.17,183.34
+8. New York University School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),81.62,188.24
+8. New York University School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,83.02,198.05
+10. Columbia Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),86.57,202.15
+2. Yale Law School,27. Brown University Orthopaedic Residency (Lifespan),85.93,202.85
+2. Yale Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,64.52,203.05
+10. Columbia Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,63.64,204.28
+5. University of Pennsylvania Carey Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,90.09,208.19
+8. New York University School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,68.21,209.41
+27. Wake Forest University School of Law,14. Carolinas Medical Center Orthopaedic Residency,71.62,211.24
+10. Columbia Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,87.93,211.86
+27. Wake Forest University School of Law,7. Duke Orthopaedic Surgery Residency,75.7,212.41
+4. University of Virginia School of Law,43. Georgetown MedStar Health Orthopaedic Residency,97.7,246.4
+2. Yale Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),120.27,249.54
+5. University of Pennsylvania Carey Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,87.29,254.58
+14. Georgetown University Law Center,29. UVA Health Orthopaedic Residency,100.26,257.52
+27. Wake Forest University School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,70.5,264.01
+6. Duke University School of Law,14. Carolinas Medical Center Orthopaedic Residency,120.07,266.14
+19. UNC School of Law,14. Carolinas Medical Center Orthopaedic Residency,112.44,276.88
+14. Georgetown University Law Center,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),122.95,282.9
+14. Georgetown University Law Center,16. University of Pennsylvania Orthopaedic Surgery Residency,121.43,286.85
+2. Yale Law School,46. Boston University Medical Center Orthopaedic Residency,118.95,287.89
+5. University of Pennsylvania Carey Law School,43. Georgetown MedStar Health Orthopaedic Residency,123.71,300.42
+4. University of Virginia School of Law,7. Duke Orthopaedic Surgery Residency,143.02,301.05
+7. Harvard Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,119.47,309.93
+2. Yale Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),150.29,313.58
+2. Yale Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,151.74,323.48
+6. Duke University School of Law,29. UVA Health Orthopaedic Residency,142.33,325.65
+22. Boston University School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,118.8,338.6
+10. Columbia Law School,27. Brown University Orthopaedic Residency (Lifespan),149.76,346.51
+8. New York University School of Law,27. Brown University Orthopaedic Residency (Lifespan),153.99,350.99
+19. UNC School of Law,29. UVA Health Orthopaedic Residency,149.51,366.02
+5. University of Pennsylvania Carey Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,150.96,368.91
+4. University of Virginia School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,151.2,379.4
+7. Harvard Law School,1. Hospital for Special Surgery (HSS),184.26,383.52
+18. Cornell Law School,1. Hospital for Special Surgery (HSS),175.44,387.89
+18. Cornell Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,175.72,390.44
+7. Harvard Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,186.82,390.64
+7. Harvard Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,180.58,393.15
+10. Columbia Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),184.33,393.65
+24. University of Georgia School of Law,14. Carolinas Medical Center Orthopaedic Residency,168.1,398.2
+18. Cornell Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,172.38,398.77
+8. New York University School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),189.04,399.07
+29. Ohio State University Moritz College of Law,19. Univeristy of Michigan Medical Center,162.1,401.19
+27. Wake Forest University School of Law,29. UVA Health Orthopaedic Residency,163.68,410.36
+22. Boston University School of Law,1. Hospital for Special Surgery (HSS),183.64,412.28
+18. Cornell Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),186.06,417.13
+15. University of Texas School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,181.63,419.27
+22. Boston University School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,186.19,419.39
+22. Boston University School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,180,422
+18. Cornell Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,185.28,422.56
+3. University of Chicago Law School,19. Univeristy of Michigan Medical Center,202.11,429.22
+9. University of Michigan Law School,6. Rush Medical Center Orthopaedic Surgery Residency,203.95,431.89
+10. Columbia Law School,46. Boston University Medical Center Orthopaedic Residency,183.04,432.09
+8. New York University School of Law,46. Boston University Medical Center Orthopaedic Residency,187.73,437.46
+14. Georgetown University Law Center,3. NYU Grossman / NYU Langone Orthopedic Hospital,205.04,441.09
+14. Georgetown University Law Center,1. Hospital for Special Surgery (HSS),207.6,444.19
+11. Northwestern Pritzker School of Law,19. Univeristy of Michigan Medical Center,201.81,444.62
+9. University of Michigan Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,201.34,445.68
+7. Harvard Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,183.2,450.4
+18. Cornell Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,174.31,454.61
+4. University of Virginia School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),222.78,462.56
+4. University of Virginia School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,221.24,466.48
+14. Georgetown University Law Center,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,211.3,468.6
+8. New York University School of Law,43. Georgetown MedStar Health Orthopaedic Residency,206.3,471.61
+16. Vanderbilt University Law School,13. Emory University Orthopaedic Surgery Residency,214.94,474.89
+23. Texas A&M School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,181.19,476.38
+22. Boston University School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,182.59,479.19
+5. University of Pennsylvania Carey Law School,29. UVA Health Orthopaedic Residency,221.84,482.67
+10. Columbia Law School,43. Georgetown MedStar Health Orthopaedic Residency,211,485.01
+14. Georgetown University Law Center,7. Duke Orthopaedic Surgery Residency,225.58,486.15
+18. Cornell Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,199.64,492.27
+4. University of Virginia School of Law,14. Carolinas Medical Center Orthopaedic Residency,235.42,492.84
+6. Duke University School of Law,43. Georgetown MedStar Health Orthopaedic Residency,225.55,506.11
+5. University of Pennsylvania Carey Law School,27. Brown University Orthopaedic Residency (Lifespan),236.01,509.02
+14. Georgetown University Law Center,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,208.65,515.29
+24. University of Georgia School of Law,8. Vanderbilt Orthopaedic Surgery Residency,245.81,547.62
+19. UNC School of Law,43. Georgetown MedStar Health Orthopaedic Residency,233.62,548.23
+5. University of Pennsylvania Carey Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),271.83,558.66
+17. Washington University School of Law,8. Vanderbilt Orthopaedic Surgery Residency,258.78,559.57
+7. Harvard Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),269.14,561.27
+17. Washington University School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,262.41,564.82
+14. Georgetown University Law Center,69. UNC Hospitals Orthopaedic Surgery Residency,234.92,566.84
+7. Harvard Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,270.57,571.15
+18. Cornell Law School,43. Georgetown MedStar Health Orthopaedic Residency,246.16,571.32
+17. Washington University School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,264.98,588.96
+22. Boston University School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),268.48,589.96
+18. Cornell Law School,27. Brown University Orthopaedic Residency (Lifespan),264.64,592.29
+18. Cornell Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),277.27,595.54
+5. University of Pennsylvania Carey Law School,46. Boston University Medical Center Orthopaedic Residency,270.51,597.01
+2. Yale Law School,43. Georgetown MedStar Health Orthopaedic Residency,275.11,597.22
+22. Boston University School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,269.93,599.85
+29. Ohio State University Moritz College of Law,6. Rush Medical Center Orthopaedic Surgery Residency,276.09,616.19
+27. Wake Forest University School of Law,43. Georgetown MedStar Health Orthopaedic Residency,260,617.01
+4. University of Virginia School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,304.74,620.48
+4. University of Virginia School of Law,1. Hospital for Special Surgery (HSS),307.27,623.55
+27. Wake Forest University School of Law,13. Emory University Orthopaedic Surgery Residency,280.55,628.11
+14. Georgetown University Law Center,57. Yale New Haven Hospital Orthopaedic Surgery Residency,272.48,629.96
+29. Ohio State University Moritz College of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,274.62,632.25
+24. University of Georgia School of Law,7. Duke Orthopaedic Surgery Residency,288.89,632.77
+18. Cornell Law School,46. Boston University Medical Center Orthopaedic Residency,277.12,636.25
+29. Ohio State University Moritz College of Law,29. UVA Health Orthopaedic Residency,277.91,642.81
+4. University of Virginia School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,310.88,647.75
+8. New York University School of Law,29. UVA Health Orthopaedic Residency,304.45,653.89
+1. Stanford Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,321.35,661.71
+1. Stanford Law School,38. UCLA Medical Center Orthopaedic Residency,311.91,663.82
+10. Columbia Law School,29. UVA Health Orthopaedic Residency,309.13,667.25
+12. UCLA School of Law,21. Stanford Orthopaedic Surgery Residency,312.67,670.33
+1. Stanford Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,313.94,673.87
+24. University of Georgia School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,279.77,676.54
+4. University of Virginia School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,308.29,694.58
+5. University of Pennsylvania Carey Law School,7. Duke Orthopaedic Surgery Residency,340.2,697.41
+14. Georgetown University Law Center,14. Carolinas Medical Center Orthopaedic Residency,331.12,704.25
+6. Duke University School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),341.89,704.78
+6. Duke University School of Law,13. Emory University Orthopaedic Surgery Residency,341.12,707.24
+6. Duke University School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,340.76,709.51
+18. Cornell Law School,29. UVA Health Orthopaedic Residency,322.81,710.61
+12. UCLA School of Law,12. UCSF Orthopaedic Surgery Residency Institute,337.83,711.65
+26. USC Gould School of Law,21. Stanford Orthopaedic Surgery Residency,320.68,714.36
+19. UNC School of Law,13. Emory University Orthopaedic Surgery Residency,333.56,718.12
+16. Vanderbilt University Law School,14. Carolinas Medical Center Orthopaedic Residency,341.49,728.98
+29. Ohio State University Moritz College of Law,8. Vanderbilt Orthopaedic Surgery Residency,336.82,739.63
+19. UNC School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),350.17,747.34
+20. University of Minnesota Law School,6. Rush Medical Center Orthopaedic Surgery Residency,352.68,751.35
+19. UNC School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,349.03,752.07
+29. Ohio State University Moritz College of Law,43. Georgetown MedStar Health Orthopaedic Residency,325.97,752.95
+26. USC Gould School of Law,12. UCSF Orthopaedic Surgery Residency Institute,345.7,755.39
+14. Georgetown University Law Center,27. Brown University Orthopaedic Residency (Lifespan),357.55,770.09
+20. University of Minnesota Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,353.59,772.19
+29. Ohio State University Moritz College of Law,7. Duke Orthopaedic Surgery Residency,353.66,772.33
+29. Ohio State University Moritz College of Law,14. Carolinas Medical Center Orthopaedic Residency,351.33,774.66
+5. University of Pennsylvania Carey Law School,69. UNC Hospitals Orthopaedic Surgery Residency,349.81,778.62
+2. Yale Law School,29. UVA Health Orthopaedic Residency,373.25,779.5
+27. Wake Forest University School of Law,8. Vanderbilt Orthopaedic Surgery Residency,364.78,791.55
+18. Cornell Law School,19. Univeristy of Michigan Medical Center,370.57,796.14
+3. University of Chicago Law School,8. Vanderbilt Orthopaedic Surgery Residency,391.75,797.51
+4. University of Virginia School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,372.18,809.37
+14. Georgetown University Law Center,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),393.32,819.64
+11. Northwestern Pritzker School of Law,8. Vanderbilt Orthopaedic Surgery Residency,399.47,828.94
+27. Wake Forest University School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),383.56,830.12
+4. University of Virginia School of Law,19. Univeristy of Michigan Medical Center,401.61,830.22
+16. Vanderbilt University Law School,6. Rush Medical Center Orthopaedic Surgery Residency,397.52,833.03
+27. Wake Forest University School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,382.17,834.35
+29. Ohio State University Moritz College of Law,69. UNC Hospitals Orthopaedic Surgery Residency,355.41,837.81
+7. Harvard Law School,43. Georgetown MedStar Health Orthopaedic Residency,393.83,844.66
+9. University of Michigan Law School,29. UVA Health Orthopaedic Residency,403.07,853.13
+16. Vanderbilt University Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,398.73,854.45
+14. Georgetown University Law Center,46. Boston University Medical Center Orthopaedic Residency,392.02,858.03
+24. University of Georgia School of Law,29. UVA Health Orthopaedic Residency,391.87,860.75
+6. Duke University School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,423.23,861.46
+6. Duke University School of Law,1. Hospital for Special Surgery (HSS),425.88,864.75
+8. New York University School of Law,7. Duke Orthopaedic Surgery Residency,421.75,866.49
+22. Boston University School of Law,43. Georgetown MedStar Health Orthopaedic Residency,393.23,873.46
+10. Columbia Law School,7. Duke Orthopaedic Surgery Residency,427,881
+6. Duke University School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,430.25,890.49
+14. Georgetown University Law Center,19. Univeristy of Michigan Medical Center,423.17,893.34
+4. University of Virginia School of Law,13. Emory University Orthopaedic Surgery Residency,438.65,898.3
+6. Duke University School of Law,8. Vanderbilt Orthopaedic Surgery Residency,439.75,899.5
+29. Ohio State University Moritz College of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),416.64,900.27
+9. University of Michigan Law School,43. Georgetown MedStar Health Orthopaedic Residency,420.16,901.32
+29. Ohio State University Moritz College of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,414.69,903.39
+19. UNC School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,431.53,904.06
+19. UNC School of Law,1. Hospital for Special Surgery (HSS),434.18,907.35
+17. Washington University School of Law,19. Univeristy of Michigan Medical Center,427.51,908.02
+19. UNC School of Law,8. Vanderbilt Orthopaedic Surgery Residency,434.77,915.54
+16. Vanderbilt University Law School,7. Duke Orthopaedic Surgery Residency,440.26,919.53
+5. University of Pennsylvania Carey Law School,14. Carolinas Medical Center Orthopaedic Residency,450.85,925.7
+19. UNC School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,438.54,933.09
+9. University of Michigan Law School,8. Vanderbilt Orthopaedic Surgery Residency,453.72,933.44
+6. Duke University School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,427.17,936.35
+29. Ohio State University Moritz College of Law,13. Emory University Orthopaedic Surgery Residency,433.98,938.96
+8. New York University School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,431.39,947.78
+4. University of Virginia School of Law,27. Brown University Orthopaedic Residency (Lifespan),457.39,949.78
+16. Vanderbilt University Law School,19. Univeristy of Michigan Medical Center,453.94,958.89
+10. Columbia Law School,69. UNC Hospitals Orthopaedic Surgery Residency,436.64,962.28
+4. University of Virginia School of Law,8. Vanderbilt Orthopaedic Surgery Residency,476.47,968.95
+16. Vanderbilt University Law School,69. UNC Hospitals Orthopaedic Surgery Residency,434.23,969.45
+18. Cornell Law School,7. Duke Orthopaedic Surgery Residency,463.39,969.78
+5. University of Pennsylvania Carey Law School,19. Univeristy of Michigan Medical Center,473.15,975.3
+9. University of Michigan Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),475.52,978.04
+19. UNC School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,435.47,978.94
+9. University of Michigan Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,473.69,981.38
+27. Wake Forest University School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,465.93,988.86
+2. Yale Law School,7. Duke Orthopaedic Surgery Residency,489.06,989.11
+27. Wake Forest University School of Law,1. Hospital for Special Surgery (HSS),468.52,992.04
+17. Washington University School of Law,13. Emory University Orthopaedic Surgery Residency,472.77,992.53
+27. Wake Forest University School of Law,19. Univeristy of Michigan Medical Center,462.63,998.26
+4. University of Virginia School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),492.97,998.94
+16. Vanderbilt University Law School,29. UVA Health Orthopaedic Residency,476.45,1013.9
+27. Wake Forest University School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,472.43,1016.87
+29. Ohio State University Moritz College of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,478.85,1018.69
+29. Ohio State University Moritz College of Law,1. Hospital for Special Surgery (HSS),480.56,1020.11
+7. Harvard Law School,29. UVA Health Orthopaedic Residency,491.95,1026.89
+9. University of Michigan Law School,7. Duke Orthopaedic Surgery Residency,503.24,1031.47
+4. University of Virginia School of Law,46. Boston University Medical Center Orthopaedic Residency,491.68,1037.37
+6. Duke University School of Law,19. Univeristy of Michigan Medical Center,503.59,1038.17
+29. Ohio State University Moritz College of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,481.49,1038.97
+6. Duke University School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,489.21,1047.41
+18. Cornell Law School,69. UNC Hospitals Orthopaedic Surgery Residency,472.03,1049.06
+9. University of Michigan Law School,1. Hospital for Special Surgery (HSS),517.88,1054.76
+9. University of Michigan Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,516.89,1054.78
+22. Boston University School of Law,29. UVA Health Orthopaedic Residency,491.36,1055.72
+9. University of Michigan Law School,14. Carolinas Medical Center Orthopaedic Residency,512.13,1056.27
+27. Wake Forest University School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,469.65,1063.3
+8. New York University School of Law,19. Univeristy of Michigan Medical Center,515.74,1066.48
+19. UNC School of Law,19. Univeristy of Michigan Medical Center,506.49,1069.98
+24. University of Georgia School of Law,43. Georgetown MedStar Health Orthopaedic Residency,489.62,1070.25
+9. University of Michigan Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,517.13,1070.27
+2. Yale Law School,69. UNC Hospitals Orthopaedic Surgery Residency,498.72,1070.44
+10. Columbia Law School,19. Univeristy of Michigan Medical Center,516.2,1071.4
+20. University of Minnesota Law School,19. Univeristy of Michigan Medical Center,511.75,1082.49
+29. Ohio State University Moritz College of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,480.67,1089.34
+19. UNC School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,497.52,1090.03
+8. New York University School of Law,14. Carolinas Medical Center Orthopaedic Residency,533.5,1097.01
+9. University of Michigan Law School,69. UNC Hospitals Orthopaedic Surgery Residency,506.3,1099.6
+10. Columbia Law School,14. Carolinas Medical Center Orthopaedic Residency,538.53,1111.06
+14. Georgetown University Law Center,13. Emory University Orthopaedic Surgery Residency,538.29,1117.58
+4. University of Virginia School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,552.72,1119.44
+9. University of Michigan Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,517.46,1122.92
+3. University of Chicago Law School,29. UVA Health Orthopaedic Residency,548.05,1131.1
+4. University of Virginia School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,551.2,1135.41
+2. Yale Law School,19. Univeristy of Michigan Medical Center,561.35,1145.7
+17. Washington University School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,544.52,1149.05
+18. Cornell Law School,14. Carolinas Medical Center Orthopaedic Residency,552.16,1154.33
+11. Northwestern Pritzker School of Law,29. UVA Health Orthopaedic Residency,552.28,1155.57
+14. Georgetown University Law Center,8. Vanderbilt Orthopaedic Surgery Residency,569.93,1175.85
+27. Wake Forest University School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,533.16,1177.32
+3. University of Chicago Law School,13. Emory University Orthopaedic Surgery Residency,579.62,1178.24
+6. Duke University School of Law,27. Brown University Orthopaedic Residency (Lifespan),570.24,1179.49
+27. Wake Forest University School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,560.82,1181.63
+3. University of Chicago Law School,14. Carolinas Medical Center Orthopaedic Residency,583,1185.99
+29. Ohio State University Moritz College of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,536.74,1188.48
+18. Cornell Law School,6. Rush Medical Center Orthopaedic Surgery Residency,575.12,1192.24
+17. Washington University School of Law,14. Carolinas Medical Center Orthopaedic Residency,574.76,1197.51
+9. University of Michigan Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,561.71,1198.41
+27. Wake Forest University School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,560.07,1199.13
+9. University of Michigan Law School,13. Emory University Orthopaedic Surgery Residency,585.79,1202.57
+18. Cornell Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,572.54,1206.08
+16. Vanderbilt University Law School,43. Georgetown MedStar Health Orthopaedic Residency,566.73,1208.45
+11. Northwestern Pritzker School of Law,13. Emory University Orthopaedic Surgery Residency,587.19,1209.38
+11. Northwestern Pritzker School of Law,14. Carolinas Medical Center Orthopaedic Residency,589.46,1214.92
+24. University of Georgia School of Law,19. Univeristy of Michigan Medical Center,574.64,1216.28
+2. Yale Law School,14. Carolinas Medical Center Orthopaedic Residency,601.81,1221.62
+19. UNC School of Law,27. Brown University Orthopaedic Residency (Lifespan),578.55,1222.1
+3. University of Chicago Law School,43. Georgetown MedStar Health Orthopaedic Residency,589.41,1227.82
+14. Georgetown University Law Center,6. Rush Medical Center Orthopaedic Surgery Residency,598.04,1230.08
+6. Duke University School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),608.97,1234.95
+7. Harvard Law School,7. Duke Orthopaedic Surgery Residency,607.07,1235.14
+3. University of Chicago Law School,7. Duke Orthopaedic Surgery Residency,613.44,1239.88
+24. University of Georgia School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,594.15,1242.3
+14. Georgetown University Law Center,25. McGaw Medical Center at Northwestern Orthopaedic Residency,596.17,1245.34
+11. Northwestern Pritzker School of Law,43. Georgetown MedStar Health Orthopaedic Residency,592.58,1250.16
+6. Duke University School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,619.95,1257.89
+24. University of Georgia School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,594.52,1262.05
+22. Boston University School of Law,7. Duke Orthopaedic Surgery Residency,606.19,1263.38
+11. Northwestern Pritzker School of Law,7. Duke Orthopaedic Surgery Residency,618.96,1266.92
+6. Duke University School of Law,46. Boston University Medical Center Orthopaedic Residency,607.49,1272.97
+6. Duke University School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,618.98,1274.97
+19. UNC School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),617.28,1277.57
+19. UNC School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,620.38,1284.76
+24. University of Georgia School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),614.01,1285.03
+23. Texas A&M School of Law,8. Vanderbilt Orthopaedic Surgery Residency,615.57,1285.15
+24. University of Georgia School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,612.58,1289.16
+16. Vanderbilt University Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,616.99,1291.99
+19. UNC School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,619.45,1301.91
+3. University of Chicago Law School,69. UNC Hospitals Orthopaedic Surgery Residency,613.59,1302.18
+9. University of Michigan Law School,27. Brown University Orthopaedic Residency (Lifespan),634.64,1314.29
+27. Wake Forest University School of Law,27. Brown University Orthopaedic Residency (Lifespan),617,1315.01
+19. UNC School of Law,46. Boston University Medical Center Orthopaedic Residency,615.79,1315.59
+7. Harvard Law School,69. UNC Hospitals Orthopaedic Surgery Residency,616.74,1316.49
+9. University of Michigan Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),648.5,1320.01
+7. Harvard Law School,19. Univeristy of Michigan Medical Center,645.09,1323.19
+29. Ohio State University Moritz College of Law,27. Brown University Orthopaedic Residency (Lifespan),619.55,1324.11
+11. Northwestern Pritzker School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,619.2,1329.39
+3. University of Chicago Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),663.31,1341.62
+5. University of Pennsylvania Carey Law School,13. Emory University Orthopaedic Surgery Residency,659.86,1342.72
+17. Washington University School of Law,7. Duke Orthopaedic Surgery Residency,651.46,1343.93
+22. Boston University School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,615.86,1344.73
+3. University of Chicago Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,661.42,1344.83
+17. Washington University School of Law,29. UVA Health Orthopaedic Residency,642.16,1347.31
+5. University of Pennsylvania Carey Law School,6. Rush Medical Center Orthopaedic Surgery Residency,665.73,1347.47
+29. Ohio State University Moritz College of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),642.95,1348.91
+22. Boston University School of Law,19. Univeristy of Michigan Medical Center,645.88,1354.75
+9. University of Michigan Law School,46. Boston University Medical Center Orthopaedic Residency,648.38,1360.75
+11. Northwestern Pritzker School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),665.3,1361.6
+5. University of Pennsylvania Carey Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,663.55,1362.09
+11. Northwestern Pritzker School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,663.41,1364.82
+27. Wake Forest University School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),653.99,1366.97
+5. University of Pennsylvania Carey Law School,8. Vanderbilt Orthopaedic Surgery Residency,684.86,1387.71
+29. Ohio State University Moritz College of Law,46. Boston University Medical Center Orthopaedic Residency,642.35,1388.71
+17. Washington University School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,647.73,1398.46
+27. Wake Forest University School of Law,46. Boston University Medical Center Orthopaedic Residency,652.62,1405.24
+16. Vanderbilt University Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),686.27,1413.53
+16. Vanderbilt University Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,684.46,1416.91
+3. University of Chicago Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,711.97,1432.94
+3. University of Chicago Law School,1. Hospital for Special Surgery (HSS),713.16,1433.31
+20. University of Minnesota Law School,8. Vanderbilt Orthopaedic Surgery Residency,696.83,1441.67
+24. University of Georgia School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,696.34,1443.69
+24. University of Georgia School of Law,1. Hospital for Special Surgery (HSS),698.92,1446.84
+18. Cornell Law School,8. Vanderbilt Orthopaedic Surgery Residency,702.69,1449.38
+3. University of Chicago Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,712.83,1449.66
+11. Northwestern Pritzker School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,713.22,1451.44
+11. Northwestern Pritzker School of Law,1. Hospital for Special Surgery (HSS),714.38,1451.77
+8. New York University School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,715.16,1452.32
+10. Columbia Law School,6. Rush Medical Center Orthopaedic Surgery Residency,716.04,1458.08
+8. New York University School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,712.81,1466.61
+11. Northwestern Pritzker School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,714,1468
+7. Harvard Law School,14. Carolinas Medical Center Orthopaedic Residency,720.53,1469.06
+24. University of Georgia School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,702.72,1471.44
+10. Columbia Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,713.67,1472.35
+22. Boston University School of Law,14. Carolinas Medical Center Orthopaedic Residency,719.77,1497.53
+3. University of Chicago Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,712.87,1501.74
+17. Washington University School of Law,43. Georgetown MedStar Health Orthopaedic Residency,713.78,1504.57
+23. Texas A&M School of Law,13. Emory University Orthopaedic Surgery Residency,725.05,1509.1
+8. New York University School of Law,13. Emory University Orthopaedic Surgery Residency,742.57,1514.14
+18. Cornell Law School,13. Emory University Orthopaedic Surgery Residency,733.28,1515.55
+24. University of Georgia School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,700.01,1518.02
+11. Northwestern Pritzker School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,714.08,1520.16
+10. Columbia Law School,13. Emory University Orthopaedic Surgery Residency,747.27,1527.55
+17. Washington University School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,715.71,1533.43
+2. Yale Law School,6. Rush Medical Center Orthopaedic Surgery Residency,763.81,1537.62
+15. University of Texas School of Law,8. Vanderbilt Orthopaedic Surgery Residency,749.88,1537.75
+8. New York University School of Law,8. Vanderbilt Orthopaedic Surgery Residency,762.42,1548.83
+2. Yale Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,761.36,1551.71
+10. Columbia Law School,8. Vanderbilt Orthopaedic Surgery Residency,766.05,1560.1
+16. Vanderbilt University Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,762.86,1560.72
+16. Vanderbilt University Law School,1. Hospital for Special Surgery (HSS),765.09,1563.19
+3. University of Chicago Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,760.08,1583.16
+16. Vanderbilt University Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,767.5,1585.01
+11. Northwestern Pritzker School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,760.84,1600.67
+16. Vanderbilt University Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,750.94,1601.87
+24. University of Georgia School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,763.69,1632.39
+3. University of Chicago Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,800.24,1632.49
+16. Vanderbilt University Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,765.7,1633.41
+24. University of Georgia School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,781.8,1637.61
+2. Yale Law School,13. Emory University Orthopaedic Surgery Residency,811.37,1639.74
+23. Texas A&M School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,802.66,1657.33
+11. Northwestern Pritzker School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,805.22,1658.44
+2. Yale Law School,8. Vanderbilt Orthopaedic Surgery Residency,828.87,1669.73
+17. Washington University School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),815.72,1674.43
+17. Washington University School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,813.78,1677.56
+23. Texas A&M School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,805.38,1681.77
+15. University of Texas School of Law,13. Emory University Orthopaedic Surgery Residency,822.42,1687.83
+3. University of Chicago Law School,27. Brown University Orthopaedic Residency (Lifespan),834.86,1702.72
+3. University of Chicago Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),849.59,1710.18
+7. Harvard Law School,6. Rush Medical Center Orthopaedic Surgery Residency,849.69,1719.37
+11. Northwestern Pritzker School of Law,27. Brown University Orthopaedic Residency (Lifespan),835.19,1719.38
+11. Northwestern Pritzker School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),849.56,1726.11
+7. Harvard Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,847.1,1733.2
+16. Vanderbilt University Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,828,1745
+3. University of Chicago Law School,46. Boston University Medical Center Orthopaedic Residency,849.43,1750.87
+22. Boston University School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,850.45,1750.9
+22. Boston University School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,847.87,1764.74
+11. Northwestern Pritzker School of Law,46. Boston University Medical Center Orthopaedic Residency,849.42,1766.84
+24. University of Georgia School of Law,27. Brown University Orthopaedic Residency (Lifespan),847.9,1770.79
+20. University of Minnesota Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,860.69,1787.39
+17. Washington University School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,880.31,1797.63
+17. Washington University School of Law,1. Hospital for Special Surgery (HSS),882.05,1799.11
+17. Washington University School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,883.05,1818.09
+24. University of Georgia School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),884.57,1822.13
+24. University of Georgia School of Law,46. Boston University Medical Center Orthopaedic Residency,883.23,1860.45
+20. University of Minnesota Law School,13. Emory University Orthopaedic Surgery Residency,905.95,1864.89
+17. Washington University School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,882.19,1868.39
+20. University of Minnesota Law School,29. UVA Health Orthopaedic Residency,900.44,1869.89
+24. University of Georgia School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,878.52,1873.03
+7. Harvard Law School,13. Emory University Orthopaedic Surgery Residency,930.09,1887.19
+16. Vanderbilt University Law School,27. Brown University Orthopaedic Residency (Lifespan),914.33,1887.66
+7. Harvard Law School,8. Vanderbilt Orthopaedic Surgery Residency,942.65,1907.3
+29. Ohio State University Moritz College of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,914.61,1913.21
+22. Boston University School of Law,13. Emory University Orthopaedic Surgery Residency,929.5,1916
+23. Texas A&M School of Law,14. Carolinas Medical Center Orthopaedic Residency,930.12,1920.25
+16. Vanderbilt University Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),944.31,1925.62
+20. University of Minnesota Law School,14. Carolinas Medical Center Orthopaedic Residency,939.38,1932.76
+22. Boston University School of Law,8. Vanderbilt Orthopaedic Surgery Residency,942.53,1937.05
+20. University of Minnesota Law School,43. Georgetown MedStar Health Orthopaedic Residency,929.99,1942.99
+16. Vanderbilt University Law School,46. Boston University Medical Center Orthopaedic Residency,943.37,1964.74
+17. Washington University School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,938.23,1967.45
+9. University of Michigan Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,968.99,1981.98
+15. University of Texas School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,975.63,1987.26
+20. University of Minnesota Law School,7. Duke Orthopaedic Surgery Residency,972.63,1992.26
+23. Texas A&M School of Law,19. Univeristy of Michigan Medical Center,969.89,2004.77
+15. University of Texas School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,978.3,2011.6
+20. University of Minnesota Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),984.66,2018.33
+20. University of Minnesota Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,982.89,2021.78
+3. University of Chicago Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,974.14,2022.27
+27. Wake Forest University School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,971.33,2022.67
+11. Northwestern Pritzker School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,979.47,2048.95
+20. University of Minnesota Law School,69. UNC Hospitals Orthopaedic Surgery Residency,972.87,2054.75
+20. University of Minnesota Law School,1. Hospital for Special Surgery (HSS),1018.86,2078.72
+20. University of Minnesota Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,1018.23,2079.45
+20. University of Minnesota Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,1017.36,2092.72
+17. Washington University School of Law,27. Brown University Orthopaedic Residency (Lifespan),1020.46,2101.91
+15. University of Texas School of Law,14. Carolinas Medical Center Orthopaedic Residency,1038.6,2121.19
+17. Washington University School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),1042.42,2123.84
+6. Duke University School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1043.97,2125.94
+23. Texas A&M School of Law,7. Duke Orthopaedic Surgery Residency,1043.06,2139.11
+19. UNC School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1037.83,2139.66
+20. University of Minnesota Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,1018.21,2146.41
+17. Washington University School of Law,46. Boston University Medical Center Orthopaedic Residency,1041.91,2163.83
+23. Texas A&M School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,1035.68,2186.37
+20. University of Minnesota Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1042.69,2193.38
+20. University of Minnesota Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,1054.4,2205.81
+4. University of Virginia School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1093.22,2220.45
+23. Texas A&M School of Law,29. UVA Health Orthopaedic Residency,1092.22,2259.44
+29. Ohio State University Moritz College of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1067.3,2260.6
+20. University of Minnesota Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),1122.2,2289.39
+27. Wake Forest University School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1086.93,2295.85
+20. University of Minnesota Law School,27. Brown University Orthopaedic Residency (Lifespan),1117.13,2301.26
+15. University of Texas School of Law,19. Univeristy of Michigan Medical Center,1134.88,2318.76
+20. University of Minnesota Law School,46. Boston University Medical Center Orthopaedic Residency,1122.5,2331.01
+15. University of Texas School of Law,7. Duke Orthopaedic Surgery Residency,1156.38,2349.75
+9. University of Michigan Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1134.84,2355.69
+6. Duke University School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1156.26,2392.52
+15. University of Texas School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,1148.25,2395.51
+19. UNC School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1149.43,2404.86
+14. Georgetown University Law Center,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1186.13,2426.26
+23. Texas A&M School of Law,43. Georgetown MedStar Health Orthopaedic Residency,1182.05,2453.1
+15. University of Texas School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1225.62,2498.25
+15. University of Texas School of Law,29. UVA Health Orthopaedic Residency,1221.1,2501.2
+4. University of Virginia School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1221.75,2519.49
+23. Texas A&M School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1238.27,2539.54
+15. University of Texas School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1235.54,2545.08
+15. University of Texas School of Law,38. UCLA Medical Center Orthopaedic Residency,1239.2,2546.4
+12. UCLA School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1248.66,2547.33
+26. USC Gould School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1238.48,2554.96
+12. UCLA School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1238.86,2569.73
+26. USC Gould School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1228.5,2577
+23. Texas A&M School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1248.08,2586.17
+23. Texas A&M School of Law,38. UCLA Medical Center Orthopaedic Residency,1251.85,2587.71
+5. University of Pennsylvania Carey Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1299.07,2634.13
+18. Cornell Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1294.02,2650.04
+23. Texas A&M School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),1299.85,2654.7
+23. Texas A&M School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,1298,2658.01
+15. University of Texas School of Law,43. Georgetown MedStar Health Orthopaedic Residency,1314.58,2702.16
+14. Georgetown University Law Center,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1318.06,2732.12
+8. New York University School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1374.47,2790.94
+23. Texas A&M School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,1374.34,2797.67
+23. Texas A&M School of Law,1. Hospital for Special Surgery (HSS),1376.46,2799.92
+10. Columbia Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1377.77,2801.53
+23. Texas A&M School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,1378.51,2821.02
+23. Texas A&M School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,1376.95,2869.9
+2. Yale Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1439.32,2908.64
+15. University of Texas School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),1435.81,2910.61
+15. University of Texas School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,1434.02,2914.04
+5. University of Pennsylvania Carey Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1434.82,2947.65
+1. Stanford Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1464.73,2957.46
+23. Texas A&M School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,1437.97,2978.94
+18. Cornell Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1445.31,2994.62
+23. Texas A&M School of Law,21. Stanford Orthopaedic Surgery Residency,1468.14,3003.28
+15. University of Texas School of Law,21. Stanford Orthopaedic Surgery Residency,1484.04,3019.07
+23. Texas A&M School of Law,12. UCSF Orthopaedic Surgery Residency Institute,1482.35,3022.7
+1. Stanford Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1483.73,3037.46
+15. University of Texas School of Law,12. UCSF Orthopaedic Surgery Residency Institute,1500.83,3043.67
+15. University of Texas School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,1513.01,3059.02
+15. University of Texas School of Law,1. Hospital for Special Surgery (HSS),1515.25,3061.5
+15. University of Texas School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,1517.7,3083.39
+20. University of Minnesota Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1522.64,3102.29
+8. New York University School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1512.95,3109.89
+23. Texas A&M School of Law,27. Brown University Orthopaedic Residency (Lifespan),1523.66,3120.32
+10. Columbia Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1516.62,3121.23
+15. University of Texas School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,1515.88,3131.75
+7. Harvard Law School,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1549.69,3139.38
+20. University of Minnesota Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,1529.86,3143.73
+20. University of Minnesota Law School,38. UCLA Medical Center Orthopaedic Residency,1533.22,3144.45
+23. Texas A&M School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),1551.12,3153.25
+22. Boston University School of Law,26. UT Southwestern Medical Center Orthopaedic Surgery Residency,1549.75,3169.51
+23. Texas A&M School of Law,46. Boston University Medical Center Orthopaedic Residency,1550.34,3192.67
+17. Washington University School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1581.85,3214.7
+20. University of Minnesota Law School,12. UCSF Orthopaedic Surgery Residency Institute,1584.86,3221.71
+20. University of Minnesota Law School,21. Stanford Orthopaedic Surgery Residency,1584.95,3230.9
+2. Yale Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1579.46,3230.92
+15. University of Texas School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,1578.21,3243.42
+17. Washington University School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1590.77,3259.55
+17. Washington University School of Law,38. UCLA Medical Center Orthopaedic Residency,1594.51,3261.02
+15. University of Texas School of Law,27. Brown University Orthopaedic Residency (Lifespan),1664.53,3386.05
+15. University of Texas School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),1694.17,3423.34
+15. University of Texas School of Law,46. Boston University Medical Center Orthopaedic Residency,1693.26,3462.53
+7. Harvard Law School,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1692.85,3467.69
+22. Boston University School of Law,68. Dell Medical School at UT Austin Orthopaedic Surgery Residency,1692.76,3497.53
+3. University of Chicago Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1744.5,3512
+17. Washington University School of Law,21. Stanford Orthopaedic Surgery Residency,1731.79,3518.57
+17. Washington University School of Law,12. UCSF Orthopaedic Surgery Residency Institute,1738.7,3523.39
+11. Northwestern Pritzker School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1744.51,3528.02
+12. UCLA School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,1752.92,3535.84
+26. USC Gould School of Law,6. Rush Medical Center Orthopaedic Surgery Residency,1744.52,3547.04
+3. University of Chicago Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,1752.81,3555.62
+3. University of Chicago Law School,38. UCLA Medical Center Orthopaedic Residency,1756.43,3556.86
+12. UCLA School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,1755.5,3560.01
+26. USC Gould School of Law,25. McGaw Medical Center at Northwestern Orthopaedic Residency,1747.11,3571.21
+11. Northwestern Pritzker School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1752.79,3571.59
+11. Northwestern Pritzker School of Law,38. UCLA Medical Center Orthopaedic Residency,1756.41,3572.82
+16. Vanderbilt University Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1777.42,3603.83
+12. UCLA School of Law,8. Vanderbilt Orthopaedic Surgery Residency,1789.95,3611.9
+26. USC Gould School of Law,8. Vanderbilt Orthopaedic Surgery Residency,1780.37,3620.74
+16. Vanderbilt University Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,1786.74,3649.47
+16. Vanderbilt University Law School,38. UCLA Medical Center Orthopaedic Residency,1790.52,3651.05
+1. Stanford Law School,6. Rush Medical Center Orthopaedic Surgery Residency,1852.47,3712.94
+1. Stanford Law School,25. McGaw Medical Center at Northwestern Orthopaedic Residency,1854.82,3736.64
+3. University of Chicago Law School,12. UCSF Orthopaedic Surgery Residency Institute,1860.05,3738.09
+3. University of Chicago Law School,21. Stanford Orthopaedic Surgery Residency,1856.5,3739.99
+11. Northwestern Pritzker School of Law,12. UCSF Orthopaedic Surgery Residency Institute,1858.61,3751.22
+11. Northwestern Pritzker School of Law,21. Stanford Orthopaedic Surgery Residency,1855.17,3753.34
+1. Stanford Law School,8. Vanderbilt Orthopaedic Surgery Residency,1952.09,3914.18
+9. University of Michigan Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1945.59,3926.17
+12. UCLA School of Law,13. Emory University Orthopaedic Surgery Residency,1950.82,3938.65
+26. USC Gould School of Law,13. Emory University Orthopaedic Surgery Residency,1940.96,3946.92
+16. Vanderbilt University Law School,21. Stanford Orthopaedic Surgery Residency,1952.27,3957.55
+12. UCLA School of Law,19. Univeristy of Michigan Medical Center,1957.52,3958.04
+16. Vanderbilt University Law School,12. UCSF Orthopaedic Surgery Residency Institute,1961.05,3966.09
+26. USC Gould School of Law,19. Univeristy of Michigan Medical Center,1949.14,3969.27
+9. University of Michigan Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,1953.86,3969.72
+9. University of Michigan Law School,38. UCLA Medical Center Orthopaedic Residency,1957.48,3970.95
+29. Ohio State University Moritz College of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1975.36,4025.72
+24. University of Georgia School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,1989.64,4044.27
+29. Ohio State University Moritz College of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1984.07,4070.14
+29. Ohio State University Moritz College of Law,38. UCLA Medical Center Orthopaedic Residency,1987.77,4071.54
+24. University of Georgia School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,1999.17,4090.33
+24. University of Georgia School of Law,38. UCLA Medical Center Orthopaedic Residency,2002.97,4091.93
+1. Stanford Law School,19. Univeristy of Michigan Medical Center,2053.54,4128.09
+9. University of Michigan Law School,12. UCSF Orthopaedic Surgery Residency Institute,2055.97,4141.95
+9. University of Michigan Law School,21. Stanford Orthopaedic Surgery Residency,2053.05,4145.09
+1. Stanford Law School,13. Emory University Orthopaedic Surgery Residency,2131.09,4277.18
+29. Ohio State University Moritz College of Law,21. Stanford Orthopaedic Surgery Residency,2106.97,4292.94
+29. Ohio State University Moritz College of Law,12. UCSF Orthopaedic Surgery Residency Institute,2111.87,4293.74
+12. UCLA School of Law,14. Carolinas Medical Center Orthopaedic Residency,2130.54,4299.07
+26. USC Gould School of Law,14. Carolinas Medical Center Orthopaedic Residency,2120.91,4307.82
+27. Wake Forest University School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2140.21,4351.42
+27. Wake Forest University School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2149.46,4396.92
+27. Wake Forest University School of Law,38. UCLA Medical Center Orthopaedic Residency,2153.24,4398.48
+24. University of Georgia School of Law,21. Stanford Orthopaedic Surgery Residency,2179.88,4428.75
+24. University of Georgia School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2189.79,4439.57
+6. Duke University School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2215.39,4459.77
+4. University of Virginia School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2222.69,4470.39
+19. UNC School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2210.92,4476.85
+12. UCLA School of Law,7. Duke Orthopaedic Surgery Residency,2228.32,4487.64
+26. USC Gould School of Law,7. Duke Orthopaedic Surgery Residency,2218.83,4496.66
+6. Duke University School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2224.63,4505.27
+6. Duke University School of Law,38. UCLA Medical Center Orthopaedic Residency,2228.42,4506.83
+4. University of Virginia School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2231.68,4515.36
+4. University of Virginia School of Law,38. UCLA Medical Center Orthopaedic Residency,2235.42,4516.85
+19. UNC School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2220.18,4522.37
+19. UNC School of Law,38. UCLA Medical Center Orthopaedic Residency,2223.97,4523.93
+12. UCLA School of Law,29. UVA Health Orthopaedic Residency,2235.48,4523.96
+26. USC Gould School of Law,29. UVA Health Orthopaedic Residency,2226.29,4533.59
+12. UCLA School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,2222.88,4538.76
+26. USC Gould School of Law,69. UNC Hospitals Orthopaedic Surgery Residency,2213.37,4547.75
+1. Stanford Law School,14. Carolinas Medical Center Orthopaedic Residency,2292.75,4601.49
+14. Georgetown University Law Center,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2298.46,4641.91
+12. UCLA School of Law,43. Georgetown MedStar Health Orthopaedic Residency,2307.01,4681.01
+18. Cornell Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2316.8,4686.59
+14. Georgetown University Law Center,44. Cedars-Sinai Medical Center Orthopaedic Residency,2307.31,4686.62
+27. Wake Forest University School of Law,21. Stanford Orthopaedic Surgery Residency,2306.24,4687.48
+14. Georgetown University Law Center,38. UCLA Medical Center Orthopaedic Residency,2311.03,4688.07
+26. USC Gould School of Law,43. Georgetown MedStar Health Orthopaedic Residency,2297.97,4690.95
+27. Wake Forest University School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2313.91,4693.83
+18. Cornell Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,2325.09,4730.17
+18. Cornell Law School,38. UCLA Medical Center Orthopaedic Residency,2328.7,4731.41
+4. University of Virginia School of Law,21. Stanford Orthopaedic Surgery Residency,2369.31,4767.62
+4. University of Virginia School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2375.24,4770.49
+1. Stanford Law School,7. Duke Orthopaedic Surgery Residency,2380.83,4770.65
+1. Stanford Law School,29. UVA Health Orthopaedic Residency,2369.95,4770.91
+6. Duke University School of Law,21. Stanford Orthopaedic Surgery Residency,2380.66,4794.31
+6. Duke University School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2388.2,4800.4
+5. University of Pennsylvania Carey Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2389.94,4806.88
+19. UNC School of Law,21. Stanford Orthopaedic Surgery Residency,2377.12,4813.24
+19. UNC School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2384.75,4819.5
+1. Stanford Law School,69. UNC Hospitals Orthopaedic Surgery Residency,2376.43,4823.85
+12. UCLA School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),2403.63,4840.26
+12. UCLA School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,2401.69,4843.38
+26. USC Gould School of Law,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),2394.78,4850.57
+5. University of Pennsylvania Carey Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,2398.62,4851.24
+5. University of Pennsylvania Carey Law School,38. UCLA Medical Center Orthopaedic Residency,2402.32,4852.63
+26. USC Gould School of Law,16. University of Pennsylvania Orthopaedic Surgery Residency,2392.84,4853.69
+18. Cornell Law School,12. UCSF Orthopaedic Surgery Residency Institute,2423.5,4895.01
+18. Cornell Law School,21. Stanford Orthopaedic Surgery Residency,2421.19,4899.39
+1. Stanford Law School,43. Georgetown MedStar Health Orthopaedic Residency,2432.25,4909.5
+14. Georgetown University Law Center,21. Stanford Orthopaedic Surgery Residency,2435.88,4920.76
+14. Georgetown University Law Center,12. UCSF Orthopaedic Surgery Residency Institute,2440.98,4921.95
+8. New York University School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2449.36,4931.73
+10. Columbia Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2450.91,4938.82
+12. UCLA School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,2461.63,4950.26
+12. UCLA School of Law,1. Hospital for Special Surgery (HSS),2463.07,4951.15
+26. USC Gould School of Law,3. NYU Grossman / NYU Langone Orthopedic Hospital,2452.93,4960.86
+26. USC Gould School of Law,1. Hospital for Special Surgery (HSS),2454.38,4961.75
+12. UCLA School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,2463.32,4968.64
+8. New York University School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2457.92,4975.85
+8. New York University School of Law,38. UCLA Medical Center Orthopaedic Residency,2461.59,4977.19
+26. USC Gould School of Law,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,2454.63,4979.27
+10. Columbia Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,2459.46,4982.92
+10. Columbia Law School,38. UCLA Medical Center Orthopaedic Residency,2463.13,4984.25
+12. UCLA School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,2462.97,5019.95
+2. Yale Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2502.57,5026.15
+26. USC Gould School of Law,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,2454.28,5030.56
+1. Stanford Law School,9. Thomas Jefferson Orthopaedic Surgery Residency (Sidney Kimmel MC),2518.03,5047.06
+1. Stanford Law School,16. University of Pennsylvania Orthopaedic Surgery Residency,2516.11,5050.22
+5. University of Pennsylvania Carey Law School,12. UCSF Orthopaedic Surgery Residency Institute,2520.29,5062.58
+5. University of Pennsylvania Carey Law School,21. Stanford Orthopaedic Surgery Residency,2516.21,5063.42
+2. Yale Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,2511.04,5070.07
+2. Yale Law School,38. UCLA Medical Center Orthopaedic Residency,2514.69,5071.38
+12. UCLA School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,2513.71,5108.41
+26. USC Gould School of Law,57. Yale New Haven Hospital Orthopaedic Surgery Residency,2505.11,5119.22
+1. Stanford Law School,3. NYU Grossman / NYU Langone Orthopedic Hospital,2568.26,5141.52
+1. Stanford Law School,1. Hospital for Special Surgery (HSS),2569.42,5141.83
+1. Stanford Law School,18. NYP Columbia Campus (Milstein Hospital) Orthopaedic Surgery,2569,5158
+8. New York University School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2571.13,5170.25
+8. New York University School of Law,21. Stanford Orthopaedic Surgery Residency,2567.75,5172.51
+10. Columbia Law School,12. UCSF Orthopaedic Surgery Residency Institute,2571.91,5175.82
+10. Columbia Law School,21. Stanford Orthopaedic Surgery Residency,2568.6,5178.19
+1. Stanford Law School,70. Icahn School of Medicine at Mount Sinai Orthopaedic Surgery Residency,2569.1,5210.21
+7. Harvard Law School,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2591.36,5213.73
+12. UCLA School of Law,27. Brown University Orthopaedic Residency (Lifespan),2590.29,5231.59
+12. UCLA School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),2605.31,5239.61
+26. USC Gould School of Law,27. Brown University Orthopaedic Residency (Lifespan),2581.8,5242.59
+22. Boston University School of Law,17. USC / LA General Medical Center Orthopaedic Surgery Residency,2592.13,5245.26
+26. USC Gould School of Law,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),2596.9,5250.81
+2. Yale Law School,12. UCSF Orthopaedic Surgery Residency Institute,2617.83,5251.66
+2. Yale Law School,21. Stanford Orthopaedic Surgery Residency,2615,5254.99
+7. Harvard Law School,44. Cedars-Sinai Medical Center Orthopaedic Residency,2599.65,5257.3
+7. Harvard Law School,38. UCLA Medical Center Orthopaedic Residency,2603.27,5258.53
+12. UCLA School of Law,46. Boston University Medical Center Orthopaedic Residency,2605.17,5280.33
+1. Stanford Law School,57. Yale New Haven Hospital Orthopaedic Surgery Residency,2614.63,5288.25
+22. Boston University School of Law,44. Cedars-Sinai Medical Center Orthopaedic Residency,2600.42,5288.84
+22. Boston University School of Law,38. UCLA Medical Center Orthopaedic Residency,2604.04,5290.07
+26. USC Gould School of Law,46. Boston University Medical Center Orthopaedic Residency,2596.76,5291.52
+1. Stanford Law School,5. Mass General Brigham (Harvard Combined Orthopaedic Residency Program),2695.9,5398.79
+1. Stanford Law School,27. Brown University Orthopaedic Residency (Lifespan),2685.74,5400.47
+7. Harvard Law School,12. UCSF Orthopaedic Surgery Residency Institute,2695.06,5416.12
+7. Harvard Law School,21. Stanford Orthopaedic Surgery Residency,2693.18,5421.35
+1. Stanford Law School,46. Boston University Medical Center Orthopaedic Residency,2695.99,5439.98
+22. Boston University School of Law,12. UCSF Orthopaedic Surgery Residency Institute,2696.08,5448.15
+22. Boston University School of Law,21. Stanford Orthopaedic Surgery Residency,2694.17,5453.35
