@@ -10,7 +10,7 @@ Identifies ideal city/program pairs by balancing:
 
 - `top_law_schools.csv`: List of law schools with ranks and addresses  
 - `top_ortho_programs.csv`: List of orthopedic residency programs  
-- `match_optimizer.py`: Python script that calculates top matches  
+- `match_optimizer.ipynb`: Python script that calculates top matches  
 - `top_law_ortho_matches.csv`: Output CSV of optimal matches  
 
 ## How to Run
