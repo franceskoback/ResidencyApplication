@@ -1,5 +1,2 @@
 # ResidencyApplication
-# ResidencyApplication
-# ResidencyApplication
-# ResidencyApplication
-# ResidencyApplication
+Minimization Problem for Law x ortho programs 
