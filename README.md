@@ -31,7 +31,7 @@ Identifies ideal city/program pairs by balancing:
 
 ## Custom Weights
 
-You can adjust how important each factor is in `match_optimizer.py`:
+Adjust how important each factor is in `match_optimizer.py`: bigger number = more importance (more penalty for lower ranking / farther distance) 
 
 ```python
 law_weight = 2.0
