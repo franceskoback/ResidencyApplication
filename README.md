@@ -1,10 +1,14 @@
 # Residency + Law School Match Optimizer
 
-Identifies ideal city/program pairs by balancing:
+Completely Computerized Hypothetical Match List Solely Based on Factors Below
 
 - Law school rank  
 - Orthopedic surgery residency rank  
-- Geographic proximity  
+- Geographic proximity
+
+## To-Do
+- Add culture fit
+- Add weather 
 
 ## Project Files
 
