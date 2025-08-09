@@ -30,22 +30,25 @@ Completely Computerized Hypothetical Match List Solely Based on Factors Below
 1. Install dependencies:  
 
    ```bash
-   pip install pandas geopy
+   match_optimizer.ipynb
    ```
 
-2. (Optional) Format the ortho program data:  
+2. (First Run or to update list) Run relevant part of ipynb code to get latitude and longitide of the ortho or law programs you're interested in.
 
    ```bash
    python format_ortho_signals.py
    ```
 
-3. Run the match pipeline:  
+4. Run the match pipeline:  
 
    ```bash
    python match_pipeline.py
    ```
 
-4. Open `top_law_ortho_matches.csv` to see ranked, color-coded results grouped by region.  
+5. Format the ortho singals csv so you get a color-coded results excel sheet organized by region 
+   ```bash
+   python format_ortho_signals.py
+   ```
 
 ---
 
