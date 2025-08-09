@@ -2,55 +2,82 @@
 
 Completely Computerized Hypothetical Match List Solely Based on Factors Below
 
-- Law school rank  
-- Orthopedic surgery residency rank  
-- Geographic proximity
+- **Law school rank**  
+- **Orthopedic surgery residency rank**  
+- **Geographic proximity**  
+- **Culture/“fit” score**  
+
+---
 
 ## To-Do
-- Add culture fit
-- Add weather 
+- Add weather as a factor  
+
+---
 
 ## Project Files
 
 - `top_law_schools.csv`: List of law schools with ranks and addresses  
-- `top_ortho_programs.csv`: List of orthopedic residency programs  
-- `match_optimizer.ipynb`: Python script that calculates top matches  
-- `top_law_ortho_matches.csv`: Output CSV of optimal matches  
+- `top_ortho_programs.csv`: List of orthopedic residency programs with lat/long; region is inferred automatically  
+- `match_pipeline.py`: Main pipeline — calculates scores, applies culture adjustments, assigns regions from lat/long, and writes a color-coded, region-grouped output (shows Doximity next to program names)  
+- `format_ortho_signals.py`: Cleans/formats orthopedic program signal data for use in the pipeline  
+- `match_optimizer.ipynb`: (Optional) Notebook version for interactive tweaking and visualization  
+- `top_law_ortho_matches.csv`: Output CSV of optimal matches (ranked, grouped by region, and color-coded)  
+
+---
 
 ## How to Run
 
-1. Install dependencies:
+1. Install dependencies:  
 
-   ```
+   ```bash
    pip install pandas geopy
    ```
 
-2. Run the script:
+2. (Optional) Format the ortho program data:  
 
-   ```
-   python match_optimizer.ipynb
+   ```bash
+   python format_ortho_signals.py
    ```
 
-3. Open `top_law_ortho_matches.csv` to see the results.
+3. Run the match pipeline:  
+
+   ```bash
+   python match_pipeline.py
+   ```
+
+4. Open `top_law_ortho_matches.csv` to see ranked, color-coded results grouped by region.  
+
+---
 
 ## Custom Weights
 
-Adjust how important each factor is in `match_optimizer.py`: bigger number = more importance (more penalty for lower ranking / farther distance) 
+Adjust how important each factor is in `match_pipeline.py`.  
+Bigger number = more importance (more penalty for lower ranking / farther distance / lower culture fit).  
 
 ```python
 law_weight = 2.0
 ortho_weight = 1.0
 distance_weight = 2.0
+culture_weight = 1.5
 ```
-
-## Sample Output
-
-| Law School | Ortho Program | Law Rank | Ortho Rank | Distance (mi) | Score |
-|------------|---------------|----------|-------------|----------------|--------|
-| NYU        | HSS           | 8        | 1           | 1.3            | 11.6   |
-| Penn       | Jefferson     | 5        | 9           | 2.1            | 16.2   |
 
 ---
 
-Contact: [github.com/franceskoback](https://github.com/franceskoback)
+## Culture Score Adjustments
 
+- Culture scores can be edited in the CSV or directly in the script.  
+- You can add or subtract from a program’s score based on personal impressions or new info.  
+- Re-run the pipeline to see updated rankings instantly.  
+
+---
+
+## Sample Output
+
+| Region | Law School | Ortho Program (Doximity) | Law Rank | Distance (mi) | Culture Score | Rank Score |
+|--------|------------|---------------------------|----------|---------------|---------------|------------|
+| NE     | NYU        | HSS (1)                   | 8        | 1.3           | +0.5          | 11.6       |
+| NE     | Penn       | Jefferson (9)             | 5        | 2.1           | −0.2          | 16.2       |
+
+---
+
+**Contact:** [github.com/franceskoback](https://github.com/franceskoback)
