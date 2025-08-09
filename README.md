@@ -18,10 +18,11 @@ Completely Computerized Hypothetical Match List Solely Based on Factors Below
 
 - `top_law_schools.csv`: List of law schools with ranks and addresses  
 - `top_ortho_programs.csv`: List of orthopedic residency programs with lat/long; region is inferred automatically  
-- `match_pipeline.py`: Main pipeline — calculates scores, applies culture adjustments, assigns regions from lat/long, and writes a color-coded, region-grouped output (shows Doximity next to program names)  
+- `match_pipeline.py`: Main pipeline — calculates scores, applies culture adjustments, assigns regions from lat/long, and generates ranked matches  
 - `format_ortho_signals.py`: Cleans/formats orthopedic program signal data for use in the pipeline  
 - `match_optimizer.ipynb`: (Optional) Notebook version for interactive tweaking and visualization  
-- `top_law_ortho_matches.csv`: Output CSV of optimal matches (ranked, grouped by region, and color-coded)  
+- `ortho_signals_formatted.csv`: Processed list of orthopedic programs with culture scores, weights, and region  
+- `top_law_ortho_matches.csv`: Ranked list of all law–ortho program combinations based on the minimization algorithm  
 
 ---
 
@@ -39,7 +40,9 @@ Completely Computerized Hypothetical Match List Solely Based on Factors Below
    python format_ortho_signals.py
    ```
 
-4. Run the match pipeline:  
+4. Run the match pipeline:  will generate both:
+   - `ortho_signals_formatted.csv` — formatted ortho program data with culture scores, weights, and regions
+   - `top_law_ortho_matches.csv` — ranked list of all law–ortho combinations
 
    ```bash
    python match_pipeline.py
@@ -76,11 +79,23 @@ culture_weight = 1.5
 
 ## Sample Output
 
-| Region | Law School | Ortho Program (Doximity) | Law Rank | Distance (mi) | Culture Score | Rank Score |
-|--------|------------|---------------------------|----------|---------------|---------------|------------|
-| NE     | NYU        | HSS (1)                   | 8        | 1.3           | +0.5          | 11.6       |
-| NE     | Penn       | Jefferson (9)             | 5        | 2.1           | −0.2          | 16.2       |
+### Ortho Program Data (`ortho_signals_formatted.csv`)
 
+| Ortho Program | Rank | Region | OrthoCultureScoreUsed | LawRankWeight | OrthoRankWeight | DistWeight | CultureWeight |
+|---------------|------|--------|-----------------------|---------------|-----------------|------------|---------------|
+| Mass General Brigham / MGH / Brigham & Women’s / Harvard Med | 1 | Boston | 3 | 5 | 1 | 5 | 10 |
+| Boston University Medical Center Orthopaedic Surgery Residency | 12 | Boston | 0 |   |   |   |   |
+| UCLA Medical Center Orthopaedic Surgery Residency | 21 | LA | 0 |   |   |   |   |
+
+---
+
+### Law–Ortho Matches (`top_law_ortho_matches.csv`)
+
+| Law School | Ortho Program | Distance (mi) | Score |
+|------------|---------------|---------------|-------|
+| Harvard Law School | Mass General Brigham / MGH / Brigham & Women’s / Harvard Med | 2.88 | -5.621 |
+| Duke University School of Law | Duke Orthopaedic Surgery Residency | 0.79 | 20.952 |
+| Stanford Law School | Stanford Orthopedic Residency Program | 1.01 | 33.032 |
 ---
 
 **Contact:** [github.com/franceskoback](https://github.com/franceskoback)
