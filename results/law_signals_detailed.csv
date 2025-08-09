@@ -1,0 +1,26 @@
+Law School,Rank,LawCultureScoreUsed,LawRankWeight,OrthoRankWeight,DistWeight,CultureWeight
+7. Harvard Law School,1,3.0,5,1,5,10
+6. Duke University School of Law,2,0.0,5,1,5,10
+1. Stanford Law School,3,0.0,5,1,5,10
+3. University of Chicago Law School,4,0.0,5,1,5,10
+8. New York University School of Law,5,0.0,5,1,5,10
+4. University of Virginia School of Law,6,0.0,5,1,5,10
+5. University of Pennsylvania Carey Law School,7,0.0,5,1,5,10
+9. University of Michigan Law School,8,0.0,5,1,5,10
+2. Yale Law School,9,0.0,5,1,5,10
+10. Columbia Law School,10,0.0,5,1,5,10
+11. Northwestern Pritzker School of Law,11,0.0,5,1,5,10
+15. University of Texas School of Law,12,1.0,5,1,5,10
+16. Vanderbilt University Law School,13,0.0,5,1,5,10
+17. Washington University School of Law,14,0.0,5,1,5,10
+12. UCLA School of Law,15,0.0,5,1,5,10
+22. Boston University School of Law,16,0.0,5,1,5,10
+19. UNC School of Law,17,0.0,5,1,5,10
+25. Boston College Law School,18,0.0,5,1,5,10
+14. Georgetown University Law Center,19,0.0,5,1,5,10
+20. University of Minnesota Law School,20,0.0,5,1,5,10
+13. Berkeley Law School,21,0.0,5,1,5,10
+23. Texas A&M School of Law,22,0.0,5,1,5,10
+26. USC Gould School of Law,23,0.0,5,1,5,10
+30. University of Wisconsin Law School,24,0.0,5,1,5,10
+27. Wake Forest University School of Law,25,0.0,5,1,5,10
